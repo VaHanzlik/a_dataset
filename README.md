@@ -1,4 +1,4 @@
-# Absa Dataset Analysis
+# Dataset Analysis
 
 This project analyzes Absa admission data to investigate the performance of a machine learning model and any potential discrimination in the admission process.
 
